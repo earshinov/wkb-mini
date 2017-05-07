@@ -1,0 +1,7 @@
+*.db
+*.opendb
+*.sdf
+*.suo
+*.user
+.vs/
+Build/
